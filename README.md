@@ -1,3 +1,4 @@
 # arvaj
 This is my first Git Repository
-author - Arvaj Khan 
+<br>
+Author - Arvaj Khan 
